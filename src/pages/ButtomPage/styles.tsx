@@ -4,7 +4,7 @@ import { color } from 'react-native-reanimated'
 export const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#a71d31',
+    backgroundColor: '#EB5757',
     alignItems: 'center'
   },
 
@@ -12,7 +12,7 @@ export const styles = StyleSheet.create({
     marginTop: 50,
     fontFamily: 'Roboto_500Medium',
     fontSize: 30,
-    color: '#d7d6d6'
+    color: '#F2F2F2'
   },
 
   buttom: {
@@ -20,10 +20,10 @@ export const styles = StyleSheet.create({
     height: 300,
     marginTop: 150,
     borderRadius: 150,
-    backgroundColor: '#96031a',
+    backgroundColor: '#F52626',
     alignItems: 'center',
     justifyContent: 'center',
-    borderColor: '#a20021',
+    borderColor: '#BDBDBD',
     borderWidth: 25
   },
 
